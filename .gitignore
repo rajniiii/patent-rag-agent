@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.env
+rag_cache/
+*.sqlite3
+*.png
+*.jpg
+*.jpeg
+*.log
+*.json
+*.npz
+*.npy
+*.csv
